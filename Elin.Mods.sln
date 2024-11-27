@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elin.Mods", "Elin.Mods\Elin.Mods.csproj", "{AB45B21B-55ED-41E1-BB9D-D61D5254114E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoKarmaLossOnKick", "NoKarmaLossOnKick\NoKarmaLossOnKick.csproj", "{3B689356-5A72-4678-A128-633F019FA2A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB45B21B-55ED-41E1-BB9D-D61D5254114E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB45B21B-55ED-41E1-BB9D-D61D5254114E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B689356-5A72-4678-A128-633F019FA2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B689356-5A72-4678-A128-633F019FA2A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D6BE866-3355-4E75-8E11-6FFAF61CB475}
+	EndGlobalSection
+EndGlobal

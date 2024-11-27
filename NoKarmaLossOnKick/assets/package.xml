@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+	<title>noKarmaLossOnKick</title>
+	<id>new_Elin_Mod</id>
+	<author>Discode</author>
+	<loadPriority>100</loadPriority>
+	<description>
+		Test Mod
+	</description>
+	<version>0.23.30</version>
+</Meta>
